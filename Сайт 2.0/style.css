@@ -1,0 +1,39 @@
+html body {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: linear-gradient(180deg, #2d2d2d 0%, #100d0d 100%);
+}
+
+.img {
+  position: absolute;
+}
+
+.logo_paneli {
+  position: absolute;
+  width: 1348px;
+  height: 48px;
+  left: 110px;
+  top: 60px;
+}
+.paneli_ypravlenia {
+  height: 48px;
+  margin-left: 697px;
+  margin-top: -2px;
+  display: flex;
+  justify-content: end;
+  justify-content: space-around;
+}
+
+.fon {
+  color: #ffffff;
+  background-color: transparent;
+  border: transparent;
+}
+
+.linia {
+  color: aliceblue;
+  height: 1px;
+  border-radius: #ffffff;
+  width: 150px;
+}
